@@ -1,0 +1,32 @@
+.App-header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.App-attempts {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-top: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.MemoryContainer {
+  background-color: rgb(42, 40, 66);
+  margin: 1em;
+  min-height: 90vh;
+  border-radius: 10px;
+  border: 4px solid rgb(87, 82, 137);
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
